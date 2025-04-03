@@ -28,7 +28,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/Spotify-Song-Recommender.git
+git clone https://github.com/ritu-nandhan-7/Spotify-Song-Recommender.git
 Run the Jupyter Notebook file to explore the recommendations.
 
 Feel free to explore, suggest improvements, or contribute! 😊
